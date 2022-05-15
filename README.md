@@ -23,9 +23,9 @@ And you should make sure enemies can't kill you while beeing afk. ;)
 ## How to use it
 
 1. Download the .py-File. You have to install python, if it is not already installed and the necessary libraries.
-⋅⋅* Python: https://www.python.org/downloads/
-⋅⋅* Pip: https://pypi.org/project/pip/#files
-⋅⋅* execute ```pip install keyboard pyautogui pillow```
+  * Python: https://www.python.org/downloads/
+  * Pip: https://pypi.org/project/pip/#files
+  * execute ```pip install keyboard pyautogui pillow```
 3. Execute the file.
 4. Start the bot with holding the shift key for 5 seconds.
 5. Lean back.
@@ -36,4 +36,5 @@ And you should make sure enemies can't kill you while beeing afk. ;)
 * shift     - start/unpause (hold the key for 5 seconds down)
 * p         - pause
 * x         - stop
+
 fail-save   - moving your mouse to a corner of the screen
